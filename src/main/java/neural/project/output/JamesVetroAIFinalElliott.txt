@@ -1,0 +1,24 @@
+Row and columns length 784
+4
+Normal ideals length: 46
+Training Inputs: 1000
+Training Inputs Length: 784
+Training ideals: 1000
+Training ideals length: 46
+Started: Sun Dec 11 02:45:52 EST 2022
+total layers: 3 neurons: 1232
+784
+46
+   epoch  error
+       1 0.1641
+     100 0.0244
+     200 0.0157
+     300 0.0117
+     369 0.0100
+--- CONVERGED!
+total layers: 3 neurons: 1232
+Training Samples: 1000
+success rate = 695/1000 (69.5%)
+finished: Sun Dec 11 03:09:20 EST 2022
+
+Process finished with exit code 0

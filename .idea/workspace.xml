@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38583e73-c9d2-4fff-96e5-26dd4f415391" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/MNISTDATA_Letters/emnist-balanced-test-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MNISTDATA_Letters/emnist-balanced-test-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MNISTDATA_Letters/emnist-balanced-train-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MNISTDATA_Letters/emnist-balanced-train-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/encogmnist-1000.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/encogmnist-2000.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/encogmnist-3000.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/encogmnist-4000.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/encogmnist-5000.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/encogmnist-6000.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/Circuit1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/labs/labs02/Circuit1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/labs/labs03_06/JamesVetroZiris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/labs/labs03_06/SimpleNormalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/MDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/MExcerciseTANH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/MLoaderTANH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/Mop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/failedtraining/ExperimentTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/failedtraining/ExperimentTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/failedtraining/MExerciseV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/failedtraining/MLoaderV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/AI Final Datasheet.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/BestNetwork.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/ElliotOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/JamesVetroAIFinalElliott.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/JamesVetroAIFinalSigmoid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/JamesVetroTANHFailure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/SteepenedBipolar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/SymmatricElliot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neural/project/output/Trainresults.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/ga/MutateDoubleArrayGenome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/ga/XorGa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/ga/XorGaObjective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/market/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/market/MarketBuildTraining.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/market/MarketEvaluate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/market/MarketPredict.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/market/MarketPrune.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/market/MarketTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/matrix/IMop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/neural/project/IMop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/mlp/XorHelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/mnist/IMLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/neural/project/IMLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/mnist/MDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/rnn/ElmanXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/rnn/JordanXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/rnn/TemporalXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/sunspot/MultiSunspot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/sunspot/PredictSunspot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/sunspot/PredictSunspotElman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/util/EncogHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/neural/util/EncogHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neural/util/IrisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/neural/util/IrisHelper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/neural/project/BalancedMnistTraining.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/neural/util/IrisHelper.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2EGTNQMlKSpv7b6AuCWbNLsUCyi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/drat6/Documents/GitHub/MiguelVasquez_JavaNeural",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\drat6\Documents\GitHub\MiguelVasquez_JavaNeural\src\main\java\neural\project\output" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\drat6\Documents\GitHub\MiguelVasquez_JavaNeural\src\main\java\neural\project\output" />
+      <recent name="C:\Users\drat6\Documents\GitHub\MiguelVasquez_JavaNeural\data" />
+      <recent name="C:\Users\drat6\Documents\GitHub\MiguelVasquez_JavaNeural\src\main\java\neural\matrix" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="neural.project" />
+      <recent name="project" />
+      <recent name="neural.labs.labs03_06" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BalancedMnistTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neural.project.BalancedMnistTraining" />
+      <module name="BalanceMnist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neural.project.failedtraining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neural.project.MLoader" />
+      <module name="BalanceMnist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neural.project.failedtraining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XorHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neural.mlp.XorHelloWorld" />
+      <module name="BalanceMnist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neural.mlp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BalancedMnistTraining" />
+        <item itemvalue="Application.MLoader" />
+        <item itemvalue="Application.XorHelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38583e73-c9d2-4fff-96e5-26dd4f415391" name="Changes" comment="" />
+      <created>1662220890508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662220890508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
